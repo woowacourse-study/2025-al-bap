@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/2025-al-bap.iml" filepath="$PROJECT_DIR$/.idea/2025-al-bap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kotlin.iml" filepath="$PROJECT_DIR$/kotlin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin.test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin.test.iml" />
+    </modules>
+  </component>
+</project>
