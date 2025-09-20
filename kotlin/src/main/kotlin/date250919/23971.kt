@@ -1,4 +1,4 @@
-package `250919`
+package date250919
 
 fun main() {
     val a = readln().split(" ").map { it.toInt() }

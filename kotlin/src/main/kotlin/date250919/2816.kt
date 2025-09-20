@@ -1,4 +1,4 @@
-package `250919`
+package date250919
 
 fun main() {
     val count: Int = readln().toIntOrNull() ?: return
